@@ -2,7 +2,7 @@ import './Banner.css'
 function Banner() {
     return (
         <header className="banner">
-            <img src="/imagens/bola-2.png" alt="Banner Principal da pagina do Organo"/>
+            <h1>Monte Seu Time</h1>
         </header>
     )
 }
